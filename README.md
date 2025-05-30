@@ -1,4 +1,4 @@
-# 🦋 Flutter Three Page App
+# 🦋 NewsMania
 
 A simple Flutter application with three navigable pages demonstrating basic layout, navigation, and state management.
 
