@@ -1,16 +1,43 @@
-# tempo
+# 🦋 Flutter Three Page App
 
-A new Flutter project.
+A simple Flutter application with three navigable pages demonstrating basic layout, navigation, and state management.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Clean and minimal UI
+- Three-page navigation using `Navigator`
+- Stateless and stateful widget examples
+- Cross-platform support (iOS, Android, Web)
 
-A few resources to get you started if this is your first Flutter project:
+## 🖥️ Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Home Page**
+   - Welcome message
+   - Button to navigate to Page 2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Page Two**
+   - Brief description
+   - Navigation to Page 3
+   - Back to Home
+
+3. **Page Three**
+   - Final message
+   - Button to return to Home
+
+## 📱 Preview
+
+> *Add screenshots or screen recordings here if available.*
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Flutter SDK: [Install Flutter](https://docs.flutter.dev/get-started/install)
+- IDE (Android Studio, VS Code, etc.)
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/flutter-three-page-app.git
+cd flutter-three-page-app
+flutter pub get
